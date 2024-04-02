@@ -12,7 +12,7 @@
   }
 }
 "repository": {
-    "type": "git",
-    "url": "https://github.com/s00ny5/cox-chain"
+  "type": "git",
+  "url": "https://github.com/s00ny5/cox-chain.git"
 },
 "homepage": "https://github.com/s00ny5/cox-chain#readme"
