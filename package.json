@@ -7,12 +7,12 @@
 "scripts": {
 "start": "node cox-chain.js"
 },
-"dependencies": {
-  "web3": "^1.5.3"
-  }
-}
 "repository": {
   "type": "git",
   "url": "https://github.com/s00ny5/cox-chain.git"
 },
-"homepage": "https://github.com/s00ny5/cox-chain#readme"
+"homepage": "https://github.com/s00ny5/cox-chain#readme",
+"dependencies": {
+  "web3": "^1.5.3"
+  }
+}
