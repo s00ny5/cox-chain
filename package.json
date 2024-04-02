@@ -11,3 +11,8 @@
   "web3": "^1.5.3"
   }
 }
+"repository": {
+    "type": "git",
+    "url": "https://github.com/s00ny5/cox-chain"
+},
+"homepage": "https://github.com/s00ny5/cox-chain#readme"
