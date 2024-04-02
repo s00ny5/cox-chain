@@ -1,18 +1,1 @@
-
-{
-"name": "cox-chain",
-"version": "1.0.0",
-"description": "cox-chain",
-"main": "cox-chain.js",
-"scripts": {
-"start": "node cox-chain.js"
-},
-"repository": {
-  "type": "git",
-  "url": "https://github.com/s00ny5/cox-chain.git"
-},
-"homepage": "https://github.com/s00ny5/cox-chain#readme",
-"dependencies": {
-  "web3": "^1.5.3"
-  }
-}
+{"name":"cox-chain","version":"1.0.0","description":"cox-chain","main":"cox-chain.js","scripts":{"start":"node cox-chain.js"},"repository":{"type":"git","url":"git+https://github.com/s00ny5/cox-chain.git"},"homepage":"https://github.com/s00ny5/cox-chain#readme","dependencies":{"web3":"^1.5.3"}}
