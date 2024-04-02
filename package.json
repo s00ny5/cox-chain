@@ -1,0 +1,31 @@
+{
+  "name": "cox-chain",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "cox-chain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s00ny5/cox-chain"
+  },
+  "website": "https://github.com/s00ny5/cox-chain",
+  "keywords": [
+    "web3",
+  ],
+  "author": "s00ny5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s00ny5/cox-chain/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/s00ny5/cox-chain#readme",
+  "dependencies": {
+    "web3": "4.7.0"
+  }
+}
