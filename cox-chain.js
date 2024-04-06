@@ -1,4 +1,5 @@
 const Web3 = require('web3');
+const { mainCore } = require('cox-chain-core');
 
 // Replace the provider URL with your Ethereum node URL
 const providerUrl = 'http://localhost:8545'; // Example URL for a local Ethereum node
@@ -11,3 +12,5 @@ web3.eth.getBlockNumber().then(blockNumber => {
 }).catch(error => {
   console.error('Error:', error);
 });
+
+console.log(mainCore());
