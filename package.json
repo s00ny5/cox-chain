@@ -12,7 +12,7 @@
   },
   "homepage": "https://github.com/s00ny5/cox-chain#readme",
   "dependencies": {
-    "web3": "^1.5.3",
-    "cox-chain-core": "1.0.0"
+    "cox-chain-core": "^1.0.0",
+    "web3": "^1.5.3"
   }
 }
